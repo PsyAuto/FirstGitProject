@@ -1,0 +1,42 @@
+2092 [Thread-39] INFO  backtype.storm.daemon.task  - Emitting: randomHelloWorld default [Hello World]
+2093 [Thread-27] INFO  backtype.storm.daemon.executor  - Processing received message source: randomHelloWorld:12, stream: default, id: {}, [Hello World]
+Found a Hello World! My Count is now: 1
+2495 [Thread-39] INFO  backtype.storm.daemon.task  - Emitting: randomHelloWorld default [Hello World]
+2495 [Thread-31] INFO  backtype.storm.daemon.executor  - Processing received message source: randomHelloWorld:12, stream: default, id: {}, [Hello World]
+Found a Hello World! My Count is now: 1
+2696 [Thread-39] INFO  backtype.storm.daemon.task  - Emitting: randomHelloWorld default [Hello World]
+2698 [Thread-35] INFO  backtype.storm.daemon.executor  - Processing received message source: randomHelloWorld:12, stream: default, id: {}, [Hello World]
+Found a Hello World! My Count is now: 1
+2798 [Thread-39] INFO  backtype.storm.daemon.task  - Emitting: randomHelloWorld default [Hello World]
+2799 [Thread-29] INFO  backtype.storm.daemon.executor  - Processing received message source: randomHelloWorld:12, stream: default, id: {}, [Hello World]
+Found a Hello World! My Count is now: 1
+2899 [Thread-39] INFO  backtype.storm.daemon.task  - Emitting: randomHelloWorld default [Hello World]
+2899 [Thread-33] INFO  backtype.storm.daemon.executor  - Processing received message source: randomHelloWorld:12, stream: default, id: {}, [Hello World]
+Found a Hello World! My Count is now: 1
+3603 [Thread-39] INFO  backtype.storm.daemon.task  - Emitting: randomHelloWorld default [Hello World]
+3604 [Thread-23] INFO  backtype.storm.daemon.executor  - Processing received message source: randomHelloWorld:12, stream: default, id: {}, [Hello World]
+Found a Hello World! My Count is now: 1
+3804 [Thread-39] INFO  backtype.storm.daemon.task  - Emitting: randomHelloWorld default [Hello World]
+3805 [Thread-31] INFO  backtype.storm.daemon.executor  - Processing received message source: randomHelloWorld:12, stream: default, id: {}, [Hello World]
+Found a Hello World! My Count is now: 2
+4006 [Thread-39] INFO  backtype.storm.daemon.task  - Emitting: randomHelloWorld default [Hello World]
+4007 [Thread-41] INFO  backtype.storm.daemon.executor  - Processing received message source: randomHelloWorld:12, stream: default, id: {}, [Hello World]
+Found a Hello World! My Count is now: 1
+7432 [Thread-39] INFO  backtype.storm.daemon.task  - Emitting: randomHelloWorld default [Hello World]
+7432 [Thread-29] INFO  backtype.storm.daemon.executor  - Processing received message source: randomHelloWorld:12, stream: default, id: {}, [Hello World]
+Found a Hello World! My Count is now: 2
+7633 [Thread-39] INFO  backtype.storm.daemon.task  - Emitting: randomHelloWorld default [Hello World]
+7633 [Thread-31] INFO  backtype.storm.daemon.executor  - Processing received message source: randomHelloWorld:12, stream: default, id: {}, [Hello World]
+Found a Hello World! My Count is now: 3
+7833 [Thread-39] INFO  backtype.storm.daemon.task  - Emitting: randomHelloWorld default [Hello World]
+7834 [Thread-29] INFO  backtype.storm.daemon.executor  - Processing received message source: randomHelloWorld:12, stream: default, id: {}, [Hello World]
+Found a Hello World! My Count is now: 3
+8438 [Thread-39] INFO  backtype.storm.daemon.task  - Emitting: randomHelloWorld default [Hello World]
+8438 [Thread-27] INFO  backtype.storm.daemon.executor  - Processing received message source: randomHelloWorld:12, stream: default, id: {}, [Hello World]
+Found a Hello World! My Count is now: 2
+9444 [Thread-39] INFO  backtype.storm.daemon.task  - Emitting: randomHelloWorld default [Hello World]
+9444 [Thread-33] INFO  backtype.storm.daemon.executor  - Processing received message source: randomHelloWorld:12, stream: default, id: {}, [Hello World]
+Found a Hello World! My Count is now: 2
+9645 [Thread-39] INFO  backtype.storm.daemon.task  - Emitting: randomHelloWorld default [Hello World]
+9646 [Thread-29] INFO  backtype.storm.daemon.executor  - Processing received message source: randomHelloWorld:12, stream: default, id: {}, [Hello World]
+Found a Hello World! My Count is now: 4
